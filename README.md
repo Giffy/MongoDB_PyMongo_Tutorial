@@ -1,2 +1,2 @@
-# MongoDB_PyMongo_Tutorial
-Introduction to MongoDB and tutorial to implement in Python using PyMongo
+# MongoDB usage with PyMongo
+Introduction to MongoDB and tutorial to access to database with Python using PyMongo
